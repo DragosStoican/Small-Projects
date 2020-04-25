@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bea74d0-3e3d-48ee-92ab-fbd7a10bf288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/springbootquickstart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e89c535c-927d-4b71-8d41-a49c2af533c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/Topic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springbootquickstart.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/CourseApiApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/hello/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/hello/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/Topic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicService.class" afterDir="false" />
     </list>
@@ -112,21 +105,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1236" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1587726229644" />
-    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1587807154834">
+    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1587812500157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
-    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1587807154834">
+    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
+    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1587812500157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
-    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1587807154834">
+    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
+    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1587812500157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
-    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1587807154834">
+    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
+    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1587812500157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
+    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
   </component>
 </project>

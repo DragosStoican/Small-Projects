@@ -82,7 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1587720974379</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implemented PUT request method and updated he service&#10;&#10;Following tutorial ep 20">
+      <created>1587812560598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587812560598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented PUT request method and updated he service&#10;&#10;Following tutorial ep 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented PUT request method and updated he service&#10;&#10;Following tutorial ep 20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1587721120866">
@@ -105,21 +117,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1236" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1587726229644" />
-    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1587812500157">
+    <state x="1050" y="114" key="CommitChangelistDialog2" timestamp="1587812559339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
-    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1587812500157">
+    <state x="1050" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587812559339" />
+    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1587812847816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
-    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1587812500157">
+    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587812847816" />
+    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1587812847816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
-    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1587812500157">
+    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587812847816" />
+    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1587812847816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587812500157" />
+    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587812847816" />
+    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1587812847816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587812847816" />
   </component>
 </project>

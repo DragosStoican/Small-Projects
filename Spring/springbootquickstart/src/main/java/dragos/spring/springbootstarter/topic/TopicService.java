@@ -38,4 +38,16 @@ public class TopicService {
         }
 
     }
+
+    public void deleteTopic(String id) {
+        /*for (Topic t : topics) {
+            if(t.getId().equals(id))
+            {
+                topics.remove(t);
+                return;
+            }
+        }*/
+        // Lambda predicate method
+        topics.removeIf(t -> t.getId().equals(id));
+    }
 }

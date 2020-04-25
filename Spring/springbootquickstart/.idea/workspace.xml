@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bea74d0-3e3d-48ee-92ab-fbd7a10bf288" name="Default Changelist" comment="" />
+    <list default="true" id="5bea74d0-3e3d-48ee-92ab-fbd7a10bf288" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/springbootquickstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dragos/spring/springbootstarter/topic/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springbootquickstart.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/CourseApiApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/hello/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/hello/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/Topic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dragos/spring/springbootstarter/topic/TopicService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ayw7bf6yuItaQHpCKQ8k1oyA5u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,9 +46,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -92,21 +112,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1236" y="404" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1587726229644" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1587739579726">
+    <state width="916" height="283" key="GridCell.Tab.0.bottom" timestamp="1587807154834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587739579726" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1587739579726">
+    <state width="916" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
+    <state width="916" height="283" key="GridCell.Tab.0.center" timestamp="1587807154834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587739579726" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1587739579726">
+    <state width="916" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
+    <state width="916" height="283" key="GridCell.Tab.0.left" timestamp="1587807154834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587739579726" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1587739579726">
+    <state width="916" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
+    <state width="916" height="283" key="GridCell.Tab.0.right" timestamp="1587807154834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587739579726" />
+    <state width="916" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587807154834" />
   </component>
 </project>

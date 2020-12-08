@@ -2,6 +2,8 @@
 # make a func that takes the problem repr and creates a tree with no repeating states
 # seach with increasing limit dfs
 
+# I used iterative DLS so I didn't need to check the visited states
+
 # the problem representation can be found at problem representation.png
 import copy
 import random
